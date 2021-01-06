@@ -1,0 +1,43 @@
+.logo{
+  width: 100px;
+}
+
+.nav-link{
+  color: #212126;
+  padding: 10px 20px;
+}
+
+.nav-name{
+  color: #212126;
+}
+
+.nav-link:hover{
+  color: #1662dd;
+}
+
+.btn-link{
+  background-color: #ffffff;
+  border-color: #1662dd;
+  color: #1662dd;
+  border-radius: 10%;
+}
+
+.btn-link:hover{
+  background-color: #1662dd;
+  color: #ffffff;
+}
+
+.menu-dropdown-crud{
+  background-color: #ffffff;
+  color:#212126;
+}
+
+.menu-dropdown-crud:hover{
+  background-color: #1662dd;
+  color: #ffffff;
+}
+
+.menu-dropdown-crud:active{
+  background-color: #1662dd;
+  color: #ffffff;
+}

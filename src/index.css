@@ -1,0 +1,9 @@
+@import 'bs-flatly.css';
+
+.nav .nav-item .nav-link {
+    color: white;
+}
+
+.nav .nav-item .nav-link.active {
+    color:#18BC9C;
+}
